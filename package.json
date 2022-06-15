@@ -1,0 +1,24 @@
+{
+  "name": "proyecto_modulo_4_devf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonycoderbuilder/Proyecto_Modulo_4_Devf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonycoderbuilder/Proyecto_Modulo_4_Devf/issues"
+  },
+  "homepage": "https://github.com/jonycoderbuilder/Proyecto_Modulo_4_Devf#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
